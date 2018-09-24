@@ -1,0 +1,8 @@
+Unable to find image 'debian:latest' locally
+latest: Pulling from library/debian
+05d1a5232b46: Pulling fs layer
+05d1a5232b46: Verifying Checksum
+05d1a5232b46: Download complete
+05d1a5232b46: Pull complete
+Digest: sha256:07fe888a6090482fc6e930c1282d1edf67998a39a09a0b339242fbfa2b602fff
+Status: Downloaded newer image for debian:latest
